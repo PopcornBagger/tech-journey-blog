@@ -18,9 +18,9 @@ const links = [
 ];
 const SocialLinks = {
   twitter: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89LzwsIV8jZgGP6ofOnCcwdTqHz78wrqmnQ&usqp=CAU',
-  github: '#github',
-  instagram: '#insta',
-  email: 'mailto:your-email@gmail.com'
+  github: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPAyWwgGLwA9EqVJ_6pjI62N8ArvyIl1BwA&usqp=CAU',
+  instagram: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkl0V-WP5x-jFl5tCLePLrlxtRjf-cJhNLYg&usqp=CAU',
+  email: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9WEcapr-15Iug7_CASbCJ6CgTpCDegiwsYg&usqp=CAU'
 }
 
 export const metadata: Metadata = {
