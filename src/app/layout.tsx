@@ -1,6 +1,6 @@
 import './globals.css'
 import type {Metadata} from 'next'
-import {Inter} from 'next/font/google'
+import {Lugrasimo} from 'next/font/google'
 import NavBarContainer from "@/components/NavBarContainer";
 import Footer from "@/components/Footer";
 
@@ -9,7 +9,7 @@ TODO:  Change these things along with:
   - avatar.jpeg in /public/images
   - favicon.ico in /public
  */
-const font = Inter({subsets: ['latin']})
+const font = Lugrasimo({subsets: ['latin']})
 const title = 'Project Pineapple';
 const description = 'This the Tech Journey template site';
 const links = [
