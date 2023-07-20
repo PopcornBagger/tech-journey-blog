@@ -27,7 +27,7 @@ export default function Home() {
             <i>
               This is not a pineapple{' '}
               <button className={'btn btn-primary'}>
-                <Link href={'https://threejs.org/'}>
+                <Link href={'https://www.foodrepublic.com/img/gallery/take-the-sting-out-of-pineapple-with-a-salt-water-soak/intro-1684948369.jpg'}>
                   <span className={'text-primary-content'}>
                     here
                   </span>
