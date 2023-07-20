@@ -10,7 +10,7 @@ TODO:  Change these things along with:
   - favicon.ico in /public
  */
 const font = Inter({subsets: ['latin']})
-const title = 'Robert\'s Site?';
+const title = 'Project Pineapple';
 const description = 'This the Tech Journey template site';
 const links = [
   {title: 'Pokemon', href: '/pokemon'},
