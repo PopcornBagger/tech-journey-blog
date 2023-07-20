@@ -11,7 +11,7 @@ type AllPostsData = {
 }[]
 
 // Change this url to change the image!
-const imageUrl = 'https://www.thetreecenter.com/how-to-grow-a-pineapple/';
+const imageUrl = 'https://www.thetreecenter.com/c/uploads/pineapple-farm-jpg-webp.webp';
 const imageKey = imageUrl.split('/').at(-1);
 
 export default function Home() {
