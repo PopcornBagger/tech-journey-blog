@@ -3,6 +3,8 @@ title: 'Amazing BBQ Pineapple Chicken Kabobs'
 date: '2023-07-20'
 ---
 
+![recipe](/images/fourth.jpeg)
+
 Meat:
 -2 lbs of boneless chicken breasts
 

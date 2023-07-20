@@ -3,7 +3,9 @@ title: 'Check out this recipe for Sweet and Sour Meatballs!'
 date: '2023-07-20'
 ---
 
-Produce
+![recipe](/images/third.jpeg)
+
+Produce:
 -1 Green bell pepper
 -3 Green onions
 -1/2 of a pineapple

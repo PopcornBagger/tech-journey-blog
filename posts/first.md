@@ -3,6 +3,8 @@ title: 'Check out this recipe for Hawaiian Pineapple Fried Rice!'
 date: '2023-07-20'
 ---
 
+![recipe](/images/first.jpeg)
+
 Meat:
 -2 cups of cooked ham
 

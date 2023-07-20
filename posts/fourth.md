@@ -3,6 +3,8 @@ title: 'Pineapple Pork with Coconut Rice'
 date: '2023-07-20'
 ---
 
+![recipe2](/images/second.jpeg)
+
 Meat:
 -1 lb of Pork tenderloin
 
