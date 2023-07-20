@@ -44,7 +44,7 @@ export default function Home() {
         </div>
 
         <section className={'prose'}>
-          <h2>Blog</h2>
+          <h2>Recipes</h2>
           <ul>
             {allPostsData.map(({id, date, title}) => (
                 <li key={id}>
