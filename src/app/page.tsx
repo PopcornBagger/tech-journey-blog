@@ -21,11 +21,12 @@ export default function Home() {
       <div>
         <section>
           <p className={'prose'}>
-          &quot;Idk, hey I actually lied to you guys, my actual name is Robert and this is my site&quot; 
+          &quot;Stand tall, wear a crown, and be sweet on the inside&quot; 
           </p>
           <div className={'my-4'}>
             <i>
-              This is not a pineapple{' '}
+            When life gives you lemons, sell them and buy a pineapple.
+{' '}
               <button className={'btn btn-primary'}>
                 <Link href={'https://www.foodrepublic.com/img/gallery/take-the-sting-out-of-pineapple-with-a-salt-water-soak/intro-1684948369.jpg'}>
                   <span className={'text-primary-content'}>
