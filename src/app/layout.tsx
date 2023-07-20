@@ -17,7 +17,7 @@ const links = [
   {title: 'Rick and Morty', href: '/rick-and-morty'}
 ];
 const SocialLinks = {
-  twitter: '#twitter',
+  twitter: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89LzwsIV8jZgGP6ofOnCcwdTqHz78wrqmnQ&usqp=CAU',
   github: '#github',
   instagram: '#insta',
   email: 'mailto:your-email@gmail.com'
